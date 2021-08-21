@@ -1,3 +1,4 @@
+
 //Input : 23  34 
 //Output: Sum of feet = 57
 
@@ -16,6 +17,8 @@ int main()
     sum.feet = dist1.feet + dist2.feet;
    
 
-    printf("Sum of feet = ",sum.feet);//Enter the missing code
+    printf("Sum of feet = %d ",sum.feet);//Enter the missing code
     return 0;
 }
+
+//DONE
